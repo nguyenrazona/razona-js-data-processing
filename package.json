@@ -1,7 +1,7 @@
 {
-  "name": "razona-js-data-processing",
+  "name": "js-data-processing",
   "version": "1.0.0",
-  "description": "",
+  "description": "JSでデータ操作する勉強",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
